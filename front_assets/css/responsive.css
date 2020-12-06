@@ -1,0 +1,577 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+	.my-nav div#navbarSupportedContent {
+    margin-left: 50%;
+}
+.banner-txt h1{
+	padding: 0 145px;
+	margin-bottom: 30px;
+	font-size: 55px;
+	line-height: 55px;
+}
+.banner-txt{
+	margin-top: 80px;
+}
+.banner-txt p{
+	font-size: 22px;
+	padding: 0 90px;
+	margin-bottom: 45px;
+}
+.main-bg{
+	min-height: 500px;
+}
+.p1{
+	padding: 0;
+}
+.right-part h2 {
+    font-size: 32px;
+    line-height: 32px;
+}
+.right-part p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.back11{
+	min-height: 440px;
+}
+.right-part ul li{
+	width: 48%;
+}
+.left-part h2 {
+    font-size: 32px;
+    line-height: 32px;
+    margin-bottom: 30px;
+}
+.left-part p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.blue-btn {
+    margin-top: 40px;
+}
+.blue-btn span a{
+	font-size: 20px;
+}
+.back22{
+	min-height: 400px;
+}
+.bot-form input.frm11{
+	width: 45%;
+}
+.ftr1 .p00{
+	font-size: 12px;
+}
+.ftr1 .ft-form .ft-frm22{
+	width: 60px;
+}
+.ftr1 .ft-form .ft-frm11{
+	width: 220px;
+}
+.bor-bt{
+	padding-top: 0;
+}
+
+/*----------------about us----------------*/
+.p-banner-txt h1{
+	font-size: 50px;
+	line-height: 50px;
+	padding: 100px 0;
+}
+.privacy-bg{
+	min-height: 330px;
+}
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	.bot-form input.frm11 {
+    width: 90%;
+}
+.banner-txt h1{
+	padding: 0;
+	font-size: 50px;
+    line-height: 50px;
+}
+.ftr1 .p00{
+	padding-right: 0;
+}
+.banner-txt p{
+	font-size: 20px;
+	padding: 0;
+	margin-bottom: 40px;
+}
+.bnr-btn span a{
+	font-size: 20px;
+}
+.banner-txt {
+    margin-top: 60px;
+    }
+    .main-bg{
+    	min-height: 450px;
+    }
+    .p1{
+    	padding: 0;
+    	font-size: 14px;
+    }
+    .form-part p{
+    	font-size: 14px;
+    }
+    .mid-txt {
+    margin: 75px 0;
+}
+.right-part h2 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.right-part p {
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 15px;
+}
+.back11 {
+    min-height: 360px;
+    }
+.right-part ul li {
+    width: 48%;
+    font-size: 14px;
+    height: 30px;
+}
+.pad-before{
+	padding-left: 30px;
+}
+.right-part {
+    padding: 30px 0;
+}
+.pad-before:before{
+	width: 20px;
+	background-size: contain;
+}
+.left-part h2 {
+    font-size: 26px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    }
+    .left-part p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 15px;
+}
+.blue-btn span a{
+	font-size: 18px;
+}
+.blue-btn {
+    margin-top: 35px;
+}
+.back22{
+	min-height: 360px;
+}
+.ftr1 .ft-form .ft-frm11{
+	width: 240px;
+}
+.bor-bt{
+	padding-top: 0;
+}
+
+/*----------------about us----------------*/
+.p-banner-txt h1{
+	font-size: 50px;
+	line-height: 50px;
+	padding: 100px 0;
+}
+.privacy-bg{
+	min-height: 330px;
+}
+.privacy-text{
+	margin: 50px 0;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 425px) and (max-width: 767px){
+	.bot-form input.frm11 {
+    width: 100%;
+}
+.banner-txt h1{
+	padding: 0;
+	font-size: 34px;
+    line-height: 35px;
+}
+.banner-txt p{
+	font-size: 15px;
+	padding: 0;
+	margin-bottom: 40px;
+}
+.bnr-btn span a{
+	font-size: 18px;
+}
+.form-part h2{
+	font-size: 30px;
+	line-height: 26px;
+}
+.banner-txt {
+    margin-top: 60px;
+    }
+    .main-bg{
+    	min-height: 450px;
+    }
+    .p1{
+    	padding: 0;
+    	font-size: 14px;
+    }
+    .form-part p{
+    	font-size: 14px;
+    }
+    .mid-txt {
+    margin: 75px 0;
+}
+.right-part h2 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.right-part p {
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 15px;
+    color: #000000;
+}
+.back11 {
+    min-height: 360px;
+    }
+.right-part ul li {
+    width: 48%;
+    font-size: 14px;
+    height: 30px;
+    color: #000000;
+}
+.my-nav .navbar-brand img{
+	width: 180px;
+}
+.mid-txt h2{
+	font-size: 26px;
+}
+.pad-before{
+	padding-left: 30px;
+}
+.right-part {
+    padding: 30px 0;
+}
+.pad-before:before{
+	width: 20px;
+	background-size: contain;
+}
+.left-part h2 {
+    font-size: 26px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    }
+    .left-part p {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+.blue-btn span a{
+	font-size: 18px;
+}
+.blue-btn {
+    margin-top: 35px;
+}
+.back22{
+	min-height: 360px;
+}
+.ftr1 .ft-form .ft-frm11{
+	width: 260px;
+}
+.bor-bt{
+	padding-top: 0;
+}
+
+.ftr1 .p00{
+	padding-right: 0;
+}
+
+/*----------------about us----------------*/
+.p-banner-txt h1{
+	font-size: 36px;
+	line-height: 36px;
+	padding: 100px 0;
+}
+.privacy-bg{
+	min-height: 250px;
+}
+.privacy-text{
+	margin: 50px 0;
+}
+.privacy-text h2{
+	font-size: 26px;
+}
+
+}
+
+@media only screen and (min-width: 360px) and (max-width: 424px){
+	.bot-form input.frm11 {
+    width: 100%;
+}
+.banner-txt h1{
+	padding: 0;
+	font-size: 26px;
+    line-height: 30px;
+}
+.banner-txt p{
+	font-size: 12px;
+	padding: 0;
+	margin-bottom: 40px;
+}
+.bnr-btn span a{
+	font-size: 18px;
+}
+.form-part h2{
+	font-size: 30px;
+	line-height: 26px;
+}
+.banner-txt {
+    margin-top: 60px;
+    }
+    .main-bg{
+    	min-height: 450px;
+    }
+    .p1{
+    	padding: 0;
+    	font-size: 12px;
+    }
+    .p2{
+    	font-size: 18px;
+    }
+    .form-part p{
+    	font-size: 12px;
+    }
+    .mid-txt {
+    margin: 75px 0;
+}
+.right-part h2 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.right-part p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 15px;
+    color: #000000;
+}
+.back11 {
+    min-height: 360px;
+    }
+.right-part ul li {
+    width: 49%;
+    font-size: 14px;
+    height: 30px;
+    color: #000000;
+}
+.my-nav .navbar-brand img{
+	width: 180px;
+}
+.mid-txt h2{
+	font-size: 22px;
+}
+.pad-before{
+	padding-left: 30px;
+}
+.right-part {
+    padding: 30px 0;
+}
+.pad-before:before{
+	width: 20px;
+	background-size: contain;
+}
+.left-part h2 {
+    font-size: 26px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    }
+    .left-part p {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+.blue-btn span a{
+	font-size: 18px;
+}
+.blue-btn {
+    margin-top: 35px;
+}
+.back22{
+	min-height: 360px;
+}
+.ftr1 .ft-form .ft-frm11{
+	width: 215px;
+}
+.bot-form input.frm22{
+	width: 100%;
+}
+.bor-bt{
+	padding-top: 0;
+}
+
+.ftr1 .p00{
+	padding-right: 0;
+}
+/*----------------about us----------------*/
+.p-banner-txt h1{
+	font-size: 36px;
+	line-height: 36px;
+	padding: 100px 0;
+}
+.privacy-bg{
+	min-height: 250px;
+}
+.privacy-text{
+	margin: 50px 0;
+}
+.privacy-text h2{
+	font-size: 26px;
+}
+}
+
+@media only screen and (min-width: 1px) and (max-width: 359px){
+	.bot-form input.frm11 {
+    width: 100%;
+    margin: 10px 0;
+}
+.banner-txt h1{
+	padding: 0;
+	font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+.banner-txt p{
+	font-size: 12px;
+	padding: 0;
+	margin-bottom: 40px;
+}
+.bnr-btn span a{
+	font-size: 18px;
+}
+.form-part h2{
+	font-size: 26px;
+	line-height: 26px;
+}
+.banner-txt {
+    margin-top: 60px;
+    }
+    .main-bg{
+    	min-height: 390px;
+    }
+    .p1{
+    	padding: 0;
+    	font-size: 12px;
+    }
+    .p2{
+    	font-size: 16px;
+    }
+    .form-part p{
+    	font-size: 12px;
+    }
+    .mid-txt {
+    margin: 75px 0;
+}
+.right-part h2 {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.right-part p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 15px;
+    color: #000000;
+}
+.back11 {
+    min-height: 360px;
+    }
+.right-part ul li {
+    width: 49%;
+    font-size: 13px;
+    height: 32px;
+    color: #000000;
+}
+.my-nav .navbar-brand img{
+	width: 180px;
+}
+.mid-txt h2{
+	font-size: 18px;
+	margin-bottom: 18px;
+}
+.pad-before{
+	padding-left: 20px;
+}
+.right-part {
+    padding: 30px 0;
+}
+.pad-before:before{
+	width: 18px;
+	background-size: contain;
+}
+.left-part h2 {
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    }
+    .left-part p {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+.blue-btn span a{
+	font-size: 18px;
+}
+.blue-btn {
+    margin-top: 35px;
+}
+.back22{
+	min-height: 360px;
+}
+.ftr1 .ft-form .ft-frm11{
+	width: 200px;
+}
+.bot-form input.frm22{
+	width: 100%;
+	margin: 15px 0;
+}
+.bor-bt{
+	padding-top: 0;
+}
+.ftr1 .ft-form .ft-frm22{
+	font-size: 18px;
+	width: 50px;
+}
+.ftr1 .p00{
+	padding-right: 0;
+}
+/*----------------about us----------------*/
+.p-banner-txt h1{
+	font-size: 30px;
+	line-height: 30px;
+	padding: 50px 0;
+}
+.privacy-bg{
+	min-height: 200px;
+}
+.privacy-text{
+	margin: 50px 0;
+}
+.privacy-text h2{
+	font-size: 26px;
+}
+}
+@media only screen and (min-width: 1px) and (max-width: 767px){
+    .my-nav .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+}
